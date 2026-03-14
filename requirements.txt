@@ -1,0 +1,10 @@
+langchain
+langgraph
+openai
+chromadb
+unstructured
+pydantic
+fastapi
+uvicorn
+python-dotenv
+httpx
